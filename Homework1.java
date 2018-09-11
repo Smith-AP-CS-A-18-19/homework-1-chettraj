@@ -13,7 +13,6 @@ public class Homework1 {
 		mystery = mystery + 1;
 		mystery = 1 - 2 * mystery;
 		return mystery;
-		
 	}
 
 	/* Costruct and return a Rectangle that has a width of w and a
