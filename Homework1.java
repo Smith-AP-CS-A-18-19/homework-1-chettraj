@@ -12,6 +12,7 @@ public class Homework1 {
 		int mystery = 1;
 		mystery = mystery + 1;
 		mystery = 1 - 2 * mystery;
+		
 		return mystery;
 	}
 
